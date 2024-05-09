@@ -96,6 +96,7 @@ fn main() {
         else {
             continue;
         };
+        println!("HIER!!");
         let package_name = toml.get("package.name").unwrap().clone().into_str().unwrap();
         let package_version = toml.get("package.version").unwrap().clone().into_str().unwrap();
 

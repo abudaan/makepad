@@ -8,6 +8,8 @@ workspace.members = [
     "experiments/bigfish",
     "experiments/teamtalk",
     "examples/simple",
+    "examples/midi",
+    "examples/test",
     "examples/simple_shader",
     "examples/chatgpt",
     "examples/sdxl",
